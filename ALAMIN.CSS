@@ -1,0 +1,36 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+.maintext{
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+.image1{
+    align-self: center;
+    margin-left: 30px;
+}
+.secondtext{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.thirdtext{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.firstpic{
+    display: flex;
+    width: 95%;
+    padding-left: 30px;
+}
+.pic2{
+    width: 45%;
+    padding: 10px;
+    margin-top: 70px;
+}
+.pic3{
+    width: 45%;
+    padding: 10px;
+    margin-top: 70px;
+}
