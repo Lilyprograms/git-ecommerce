@@ -4,6 +4,13 @@
     list-style: none;
 }
 
+/* body */
+
+.hood{
+    text-align: center;
+    padding-top: 40px;
+}
+
 .hoodies {
     display: flex;
     flex-wrap: wrap;
@@ -28,6 +35,13 @@
     font-size: 18px;
     font-weight: bold;
 }
+.price{
+    text-align: left;
+    padding-left: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 5px;
+}
 
 .button-group {
     display: flex;
@@ -48,12 +62,12 @@
 
 /* Footer */
 
-
-
 footer {
     margin-top: 40px;
     border-top: 1px solid rgb(207, 207, 207);
     background-color: white;
+    background-color: black;
+    color: white;
 }
 
 .footer-header {
@@ -85,12 +99,6 @@ footer {
 .footer-section p{
     padding-top: 15px;
     font-size: 15px;
-}
-
-.footer-section:before {
-    position: absolute;
-    top: -1px;
-    left: 0;
 }
 
 .footer-bottom-text{
