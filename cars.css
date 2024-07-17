@@ -58,7 +58,7 @@ color: blue;
    .oll{
     justify-content: center;
    }
-   .kim h3{
+   .kim h1{
     margin-top:50px ;
     color: blue;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -66,6 +66,35 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    
    .kim p{
     margin-top: 40px;
-    font-size: 14px;
+    font-size: 18px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+   .tol{
+    display: flex;
+    justify-content: space-between;
+   }
+   .tun img{
+    
+width: 400px;
+height: 250px;
+   }
+   .til{
+    display: flex;
+    justify-content: space-between;
+   }
+   .tune img{
+    
+    width: 500px;
+    height: 250px;
+       }
+    .mus img{
+        margin-left: 500px;
+        margin-top: 40px;
+        width: 200px;
+        height: 150px;
+             
+    }
+   .inn{
+    margin-top: 30px;
+    border-bottom: 2px solid blue;
    }
