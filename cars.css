@@ -50,3 +50,22 @@
 font-size: 28px;
 color: blue;
    }
+   .man img{
+    margin-top: 20px;
+    width: 1300px;
+    height: 500px;
+   }
+   .oll{
+    justify-content: center;
+   }
+   .kim h3{
+    margin-top:50px ;
+    color: blue;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+   
+   .kim p{
+    margin-top: 40px;
+    font-size: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
