@@ -1,0 +1,40 @@
+.hoodies {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.hoodies-item {
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+}
+
+.hoodies-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+.text {
+    text-align: left;
+    padding-left: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.button-group {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.button-group button {
+    margin: 5px;
+    padding: 5px 10px;
+    font-size: 14px;
+    border: 0.2px solid grey;
+    border-radius: 10px;
+}
